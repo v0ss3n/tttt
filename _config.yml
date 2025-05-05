@@ -1,0 +1,14 @@
+# Example Site settings
+
+
+header_pages:
+ - index.md
+ - about.md
+
+footer: '<a href="https://linktr.ee/michellevossen">more links</a>'
+
+style: light # dark (default) or light
+# listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
