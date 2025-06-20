@@ -131,3 +131,97 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vg { color: var(--code-color-7); } /* Name.Variable.Global */
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
+
+// Own changes
+
+img {
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+ol,
+table {
+  margin-bottom: 2%;
+}
+
+// p {
+//     flex-flow: row wrap;
+//     display: flex;
+//     justify-content: space-between;
+// }
+
+// img + img {
+//     width: 49%;
+// }
+
+video {
+  width: 100% !important;
+  height: auto !important;
+  margin-bottom: 2%;
+}
+
+.row-2 p,
+.row-2--divs {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  img {
+    width: 49%;
+  }
+}
+
+.row-2--divs div {
+  width: 49%;
+}
+
+.row-2--video {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+
+  .video,
+  iframe {
+    width: 49%;
+  }
+}
+
+.row-3 p {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  img {
+    width: 32%;
+  }
+}
+
+.row-4 p {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  img {
+    width: 23.5%;
+  }
+}
+
+td,
+th {
+  padding-right: 1rem;
+}
