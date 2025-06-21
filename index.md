@@ -10,16 +10,31 @@ permalink: /
 
 ![]({{ site.baseurl }}/assets/images/tttt.jpg) 
 
+Congratulations on your t-t-t-t! With the t-t-t-t, you can turn e-textiles into wireless keyboards. Scroll down to see some possibilities! To learn more about e-textiles, go to the [e-textiles tab](/e-textiles.html).
+
 ## How to use
-- With the 8 touch buttons, you can play MIDI notes. MIDI is a universal communication protocol for musical instruments. We can send these MIDI notes over Bluetooth to phone and computer apps like Garageband, Ableton and more. 
-- With the oct touch buttons you can move through the keyboard from octave to octave. To the left is lower, to the right is higher. When the notes don't change anymore, you've reached the limit :-)
+- With the 8 touch buttons, you can play MIDI notes. MIDI is a universal communication protocol for musical instruments. We can send these MIDI notes over Bluetooth to phone and computer apps like Garageband, Ableton and more. The 1st and the 8th note are the same note, an octave apart.
+- With the 2 oct touch buttons you can move through the keyboard from octave to octave. To the left is lower, to the right is higher. When the notes don't change anymore, you've reached the limit :-)
 - With the keynote button you can change the keynote you start with. The initial note is C, and each time you click you go up a note until you're back at the initial C.
-- With the major/minor scale button you can toggle between major and minor scale (natural minor). 
+- With the major/minor scale button you can toggle between major and minor scale (natural minor). This changes some of the notes from 'optimistic' to 'melancholic'. 
+
+---
+
+Before you start, some power and safety notes:
+
+### Power
+- The t-t-t-t is powered via USB-C and requires 5V. When plugging in the t-t-t-t, check the rating of the adapter that you're using - don't power it with anything higher than 5V. Any regular USB power adapter for your phone or tablet should work - but check what is written on the adapter beforehand to be sure. You can also power it from your computer USB port. Any Amperage (A) over 1 should be more than enough.
+- There are 10 conductive, touch sensitive pads on the t-t-t-t. If you place the device on a conductive area (like metal), it will not work. It will also not work if you connect the pads to each other. 1 sensor per pad!
+
+### Safety
+- Do not immerse in water (it's not a modern phone) (although theoretically you can connect one of the touch inputs to water via a wire if you want)
+- Do not lick or eat (just in case that wasn't clear)
+- If you're taking off the bolts or fabric tape to assemble the t-t-t-t in a different way, wash your hands after touching the bare conductive pads, since they have a leaded tin coating for easy soldering. It's safe to touch the pads, but not ideal to eat something (or bite your nails) after you touched it (and if you're soldering you should wash your hands afterwards anyway).
 
 ---
 
 ## How to connect to phone apps
-Make sure your t-t-t-t is on. Each t-t-t-t has a unique name, so look for that when connecting :-)
+Make sure your t-t-t-t is powered. It has a little red light that turns on when it's on. Each t-t-t-t has a unique name, so look for that when connecting :-)
 
 ### Garageband (iOS)
 1. Download Garageband
@@ -63,8 +78,21 @@ Make sure your t-t-t-t is on. Each t-t-t-t has a unique name, so look for that w
 
 ### Synprez FM (Android)
 1. Download MIDI BLE Connect & SynprezFM II
-2. Open MIDI BLE Connect and select your t-t-t-t
-3. Open SynprezFM II. It should be automatically connected; if not go to settings and connect there.
+2. Open MIDI BLE Connect and click Start Bluetooth Scan
+    
+    ![]({{ site.baseurl }}/assets/images/midibleconnect1.png) 
+
+3. Select your t-t-t-t. If it asks you to allow for connections, say yes
+
+    ![]({{ site.baseurl }}/assets/images/midibleconnect2.png) 
+
+4. Now you're connected to your t-t-t-t :-)
+
+    ![]({{ site.baseurl }}/assets/images/midibleconnect3.png) 
+
+5. Open SynprezFM II. It should be automatically connected now!
+
+    ![]({{ site.baseurl }}/assets/images/synprez.png) 
 
 ---
 
@@ -102,7 +130,7 @@ This also works with Ableton. In Ableton select your MIDI device (loopMIDI port)
 
 
 
-### Major scales (via <https://piano-music-theory.com/2016/05/31/major-scales/>)
+<!-- ### Major scales (via <https://piano-music-theory.com/2016/05/31/major-scales/>)
 - C Major Scale: C – D – E – F – G – A – B – C
 - C Sharp Major Scale: C♯ – D♯ – E♯ – F♯ – G♯ – A♯ – B♯ – C♯ (equals the D Flat Major Scale: D♭ – E♭ – F – G♭ – A♭ – B♭ – C – D♭)
 - D Major Scale: D – E – F♯ – G – A – B – C♯ – D
@@ -114,7 +142,7 @@ This also works with Ableton. In Ableton select your MIDI device (loopMIDI port)
 - A Flat Major Scale: A♭ – B♭ – C – D♭ – E♭ – F – G – A♭
 - A Major Scale: A – B – C♯ – D – E – F♯ – G♯ – A
 - B Flat Major Scale: B♭ – C – D – E♭ – F – G – A – B♭
-- B Major Scale: B – C♯ – D♯ – E – F♯ – G♯ – A♯ – B (equals the C Flat Major Scale: C♭ – D♭ – E♭ – F♭ – G♭ – A♭ – B♭ – C♭)
+- B Major Scale: B – C♯ – D♯ – E – F♯ – G♯ – A♯ – B (equals the C Flat Major Scale: C♭ – D♭ – E♭ – F♭ – G♭ – A♭ – B♭ – C♭) -->
 
 <!-- [ C , D , E , F , G , A , B , C ]
 [ C♯ , D♯ , E♯ , F♯ , G♯ , A♯ , B♯ , C♯ ]
