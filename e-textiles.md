@@ -16,6 +16,19 @@ The t-t-t-t makes use of **variable capacitance**, which is detected on any of t
 
 If it doesn't change anything, it's possible that your sensor is too conductive. Another thing that affects capacitance, is whether your hands are dry or not. When your hands are damp, this increases your body's ability to conduct electricity.
 
+
+## Materials
+To make e-textiles, you need conductive materials. These are some of my favorite sources to get them! I also like to check fabric stores, because sometimes they have fabrics with metal in them as a stiffener or for visual effects (I bought beautiful gold woven fabric at [Bakermat in Antwerp](https://www.bakermat.net/store/)).
+
+- [Shieldex (German)](https://shieldex-store.com/en/collections/product-finder?sort_by=title-ascending&filter.p.product_type=yarns&filter.p.product_type=fibers&filter.p.product_type=fabric)
+- [Bart & Francis (Belgian)](https://bart-francis.be/nl/etextile-high-tech-garen-co/g-128) (also [this category](https://bart-francis.be/nl/10-50-100-metaal/g-50))
+- [Conductive fabric tape on Kiwi Electronics](https://www.kiwi-electronics.com/nl/geweven-geleidende-tape-20172)
+- [Conductive fabric on Kiwi Electronics](https://www.kiwi-electronics.com/nl/geleidende-stof-zilver-20cm-vierkant-2809?search=geleidende%20stof)
+- [Conductive stainless steel yarn on Kiwi Electronics - this is great for stable connections between your sensor and your t-t-t-t, and you can also sew with it (in the bobbin case!)](https://www.kiwi-electronics.com/nl/roestvrij-medium-geleidend-garen-3-draads-18-meter-2793?search=geleidend%20garen)
+- [Copper conductive fabric on Amazon](https://www.amazon.nl/dp/B087RPQVVK)
+- [Conductive fabric on Amazon](https://www.amazon.nl/dp/B08XNSNGX4)
+- [Conductive tape on Amazon](https://www.amazon.nl/DELORIGIN-dubbelzijdig-hoogafschermend-kleefvezel-EMI-afscherming/dp/B0DGGLDV9Z)
+
 ## Connecting e-textiles to the t-t-t-t
 You can use alligator wires, use conductive yarn to tie a knot, stick conductive tape to the input... Or make your own connector! If you have a t-t-t-t version with conductive fabric, you can also stick a (safety) pin directly in the fabric. 
 
