@@ -18,18 +18,22 @@ Congratulations on your t-t-t-t! With the t-t-t-t, you can turn e-textiles into 
 - With the keynote button you can change the keynote you start with. The initial note is C, and each time you click you go up a note until you're back at the initial C.
 - With the major/minor scale button you can toggle between major and minor scale (natural minor). This changes some of the notes from 'optimistic' to 'melancholic'. 
 
+Some tips for connecting textile sensors:
+- If you're connecting multiple sensors, make sure the conductive parts of the connections don't touch each other. You won't break the t-t-t-t, but it will either keep making sound, or not make sound at all on those pads. This is because the touch pads are capacitive touch, and connecting them to each other makes them react to each other 
+- The longer the wire between the t-t-t-t and the sensor, the harder it is for the t-t-t-t to detect touch. Keep the wires under 50 cm long.
+
 ---
 
 Before you start, some power and safety notes:
 
 ### Power
 - The t-t-t-t is powered via USB-C and requires 5V. When plugging in the t-t-t-t, check the rating of the adapter that you're using - don't power it with anything higher than 5V. Any regular USB power adapter for your phone or tablet should work - but check what is written on the adapter beforehand to be sure. You can also power it from your computer USB port. Any Amperage (A) over 1 should be more than enough.
+- You can also power the t-t-t-t via a powerbank, but in my experience not all powerbanks work well; cheap/old ones may give unstable results. 
 - There are 10 conductive, touch sensitive pads on the t-t-t-t. If you place the device on a conductive area (like metal), it will not work. It will also not work if you connect the pads to each other. 1 sensor per pad!
 
 ### Safety
 - Do not immerse in water (it's not a modern phone) (although theoretically you can connect one of the touch inputs to water via a wire if you want)
 - Do not lick or eat (just in case that wasn't clear)
-- If you're taking off the bolts or fabric tape to assemble the t-t-t-t in a different way, wash your hands after touching the bare conductive pads, since they have a leaded tin coating for easy soldering. It's safe to touch the pads, but not ideal to eat something (or bite your nails) after you touched it (and if you're soldering you should wash your hands afterwards anyway).
 
 ---
 
