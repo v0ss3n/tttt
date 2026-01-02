@@ -5,17 +5,14 @@ permalink: /e-textiles.html
 ---
 
 # E-textiles & the t-t-t-t
-Any textile crafting technique can be used to create e-textiles, because it's the material you work with that makes it conductive. The yarn or fabric needs to have some metal in it. If you work with a yarn that has about 10-20% metal in it, and use a technique that creates a stretchy fabric (like knitting, )
+Any textile crafting technique can be used to create e-textiles, because it's the material you work with that makes it conductive. The yarn or fabric needs to have some conductive material like metal in it. If you work with a yarn that has at least 10-20% metal in it that should work. If you add more metal or work with a higher density (of stitches for example), the conductivity will be higher. Sometimes you want to make something that is very conductive, and sometimes you want something that has a very high resistance that changes drastically when stretched/pressed/squeezed; it depends on the application, so I advice you to just try. 
 
 There are roughly two ways to use e-textiles for interaction, that can be measured with a device like the t-t-t-t: 
 
 1. Variable resistance: the ability of a material to conduct/resist the flow of electricity. 
-2. Variable capacitance: the ability of an object (or person!!!) to store electric charge. 
+2. Variable capacitance: the ability of an object (or person!) to store electric charge. 
 
-The t-t-t-t makes use of **variable capacitance**, which is detected on any of the 10 'legs' of the device. Without getting too technical, this means that the t-t-t-t can measure your body's electric charge through skin contact, **through the e-textile sensors**. For example, if you connect a conductive pompon to one of the touch inputs and you touch the pompon, the t-t-t-t detects the touch. If you then squeeze the pompon, the contact area is bigger, and the t-t-t-t can detect that the capacitance **increases**. The t-t-t-t is programmed in such a way that the higher the capacitance is, the more a pitch is bent. Try it out! 
-
-If it doesn't change anything, it's possible that your sensor is too conductive. Another thing that affects capacitance, is whether your hands are dry or not. When your hands are damp, this increases your body's ability to conduct electricity.
-
+The t-t-t-t makes use of **variable capacitance**, which is detected on any of the 10 'legs' of the device. Without getting too technical, this means that the t-t-t-t can measure your body's electric charge through skin contact, **through the e-textile sensors**. For example, if you connect a conductive pompon to one of the touch inputs and you touch the pompon, the t-t-t-t detects the touch. If you then squeeze the pompon, the contact area is bigger, and the t-t-t-t can detect that the capacitance **increases**. The t-t-t-t is programmed in such a way that if the capacitance goes above a preset threshold, a MIDI note is sent. And the higher the capacitance is, the more a pitch is bent - but this does not work with all MIDI apps and keyboards, so you just have to try it out! If you don't hear a change in the sound when you squeeze or press harder, it is also possible that your sensor is very conductive. Another thing that affects capacitance, is whether your hands are dry or not. When your hands are damp, this increases your body's ability to conduct electricity.
 
 ## Materials
 To make e-textiles, you need conductive materials. These are some of my favorite sources to get them! I also like to check fabric stores, because sometimes they have fabrics with metal in them as a stiffener or for visual effects (I bought beautiful gold woven fabric at [Bakermat in Antwerp](https://www.bakermat.net/store/)).
@@ -30,7 +27,7 @@ To make e-textiles, you need conductive materials. These are some of my favorite
 - [Conductive tape on Amazon](https://www.amazon.nl/DELORIGIN-dubbelzijdig-hoogafschermend-kleefvezel-EMI-afscherming/dp/B0DGGLDV9Z)
 
 ## Connecting e-textiles to the t-t-t-t
-You can use alligator wires, use conductive yarn to tie a knot, stick conductive tape to the input... Or make your own connector! If you have a t-t-t-t version with conductive fabric, you can also stick a (safety) pin directly in the fabric. 
+You can use alligator wires, use conductive yarn to tie a knot, stick conductive tape to the input... Or make your own connector! 
 
 ![]({{ site.baseurl }}/assets/images/alligators.jpg) 
 

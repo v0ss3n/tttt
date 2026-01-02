@@ -8,26 +8,39 @@ permalink: /
 
 *textile touch to tones*
 
+The *textile touch to tones* is a capacitive touch keyboard that has been developed by Michelle Vossen to easily turn electronic textiles into Bluetooth MIDI interfaces. 
+
 ![]({{ site.baseurl }}/assets/images/tttt.jpg) 
 
-Congratulations on your t-t-t-t! With the t-t-t-t, you can turn e-textiles into wireless keyboards. Scroll down to see some possibilities! To learn more about e-textiles, go to the [e-textiles tab](/e-textiles.html).
+With the t-t-t-t, you can turn e-textiles into wireless keyboards. Scroll down to see some possibilities! 
 
-## How to use
-- With the 8 touch buttons, you can play MIDI notes. MIDI is a universal communication protocol for musical instruments. We can send these MIDI notes over Bluetooth to phone and computer apps like Garageband, Ableton and more. The 1st and the 8th note are the same note, an octave apart.
-- With the 2 oct touch buttons you can move through the keyboard from octave to octave. To the left is lower, to the right is higher. When the notes don't change anymore, you've reached the limit :-)
+**To learn more about e-textiles, go to the [e-textiles tab](/e-textiles.html).**
+
+## Getting started
+So how do you turn electronic textiles into MIDI keyboards? To get started, you need the t-t-t-t, a USB-C power supply (5V), and 8-10 alligator clip cables (or conductive thread or tape). 
+
+1. **Attach your e-textiles to the t-t-t-t.** The easiest way to do this is by clipping a textile with an alligator clip cable to a touch pad. You can use one e-textile sensor per touch pad. 
+2. **Power the t-t-t-t via the USB-C port.** You can power it with any USB power adapter rated at 5 Volts or via your computer's USB ports. A USB-C laptop charger also works. 
+3. **Connect to the t-t-t-t via the app of your choice.** This can be Garageband on an Apple device, or Synprez FM on an Android device. There are also other apps out there that support Bluetooth MIDI controllers, so feel free to explore further! If you scroll down this page a bit further, you can find instructions on how to connect to each device.
+4. **Start playing!** You should hear notes play when you touch your e-textiles.
+
+## How does it work
+- With the 8 touch pads at the bottom, you can play MIDI notes. MIDI is a universal communication protocol for musical instruments. We can send these MIDI notes over Bluetooth to phone and computer apps like Garageband, Ableton and more. The 1st and the 8th note are the same note, an octave apart.
+- With the 2 oct touch pads on the sides, you can move through the keyboard from octave to octave. To the left is lower, to the right is higher. When the notes don't change anymore, you've reached the limit of the keyboard.
 - With the keynote button you can change the keynote you start with. The initial note is C, and each time you click you go up a note until you're back at the initial C.
 - With the major/minor scale button you can toggle between major and minor scale (natural minor). This changes some of the notes from 'optimistic' to 'melancholic'. 
 
+## Tips
 Some tips for connecting textile sensors:
 - If you're connecting multiple sensors, make sure the conductive parts of the connections don't touch each other. You won't break the t-t-t-t, but it will either keep making sound, or not make sound at all on those pads. This is because the touch pads are capacitive touch, and connecting them to each other makes them react to each other 
-- The longer the wire between the t-t-t-t and the sensor, the harder it is for the t-t-t-t to detect touch. Keep the wires under 50 cm long.
+- The longer the wire between the t-t-t-t and the sensor, the harder it is for the t-t-t-t to detect touch. Keep the wires under 50 cm long if possible.
 
 ---
 
-Before you start, some power and safety notes:
+Some power and safety notes:
 
 ### Power
-- The t-t-t-t is powered via USB-C and requires 5V. When plugging in the t-t-t-t, check the rating of the adapter that you're using - don't power it with anything higher than 5V. Any regular USB power adapter for your phone or tablet should work - but check what is written on the adapter beforehand to be sure. You can also power it from your computer USB port. Any Amperage (A) over 1 should be more than enough.
+- The t-t-t-t is powered via USB-C and requires 5V. When plugging in the t-t-t-t, check the rating of the adapter that you're using - don't power it with anything higher than 5V. Any regular USB power adapter for your phone or tablet should work - but check what is written on the adapter beforehand to be sure. You can also power it from your computer USB port. Any power adapter rated at a minimum of 0,5 Ampère should fine (more is always okay with Ampère)
 - You can also power the t-t-t-t via a powerbank, but in my experience not all powerbanks work well; cheap/old ones may give unstable results. 
 - There are 10 conductive, touch sensitive pads on the t-t-t-t. If you place the device on a conductive area (like metal), it will not work. It will also not work if you connect the pads to each other. 1 sensor per pad!
 
